@@ -1,0 +1,6 @@
+{
+  "name": "PipelineForge CI/CD",
+  "description": "Современный веб-интерфейс и движок CI/CD (альтернатива Jenkins) с визуальным редактором пайплайнов, стримингом логов, управлением runner-агентами и детальной аналитикой сборок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
